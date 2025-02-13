@@ -27,6 +27,7 @@ This project focuses on automating customer inquiry categorization in the bankin
 │── 📄 README.md            # Project documentation 
 
 ---
+# Model Performance Summary
 
 | Model / Score | Accuracy | Precision | Recall | F1 |
 | ------------- | ------------- | -------------| ------------- | ------------- |
