@@ -20,12 +20,12 @@ This project focuses on automating customer inquiry categorization in the bankin
 ## Project Structure
 
 📁 Customer_Inquiry_Categorization  
-│── 📂 data/                # Raw and processed datasets  
-│── 📂 notebooks/           # Jupyter notebooks for EDA, clustering, and modeling  
-│── 📂 models/              # Saved trained models (XGBoost, DNN, etc.)  
-│── 📂 reports/             # Generated reports, visualizations, and insights  
-│── 📄 Financial_Customer_Inquiries.pdf     # Dependencies for running the project  
-│── 📄 README.md            # Project documentation  
+│── 📂 code/                  
+│── 📂 data/             
+│── 📂 images/               
+│── 📂 models/             
+│── 📄 Financial_Customer_Inquiries.pdf      
+│── 📄 README.md             
 
 ---
 # Model Performance Summary
